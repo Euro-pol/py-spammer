@@ -1,6 +1,6 @@
 # py-spammer
 
-A simple spamming tool made to learn python.
+A simple spamming tool made while Хауди Хо's telegram spamming event :D
 
 ## How to use
 (Make sure you have python 3.7+)
